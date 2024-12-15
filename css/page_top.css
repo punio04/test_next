@@ -4106,7 +4106,7 @@ footer .copyright {
   .text04 {
     position: absolute;
     top: 50%;
-    right: 12%;
+    right: 8%;
     letter-spacing: 1;
     font-size: 8px;
     font-weight: 200 !important;
@@ -4406,6 +4406,16 @@ footer .copyright {
     font-size: 12px;
     color: #fff;
     padding: 20px 35px;
+  }
+
+  .mw-cv {
+    height: 50%;
+  }
+
+  .mw-header {
+    width: 99%;
+    margin: auto;
+    position: relative;
   }
 }
 
