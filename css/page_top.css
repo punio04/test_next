@@ -3649,7 +3649,7 @@ footer .copyright {
     font-size: 40px !important;
     letter-spacing: normal !important;
     color: #286699 !important;
-    font-family: Noto Sans JP !important;
+    font-family: 'Noto Sans JP'!important;
   }
 
   .c-heading.is-md span {
@@ -3668,7 +3668,7 @@ footer .copyright {
     letter-spacing: 1;
     font-size: 14px;
     font-weight: 200 !important;
-    font-family: Noto Sans JP;
+    font-family: 'Noto Sans JP';
   }
 
   .photo03 {
@@ -3682,7 +3682,7 @@ footer .copyright {
     right: 25.6%;
     letter-spacing: 1;
     font-size: 27px;
-    font-family: Noto Sans JP;
+    font-family: 'Noto Sans JP';
   }
 
   .btn-frame1 {
@@ -3719,7 +3719,7 @@ footer .copyright {
     right: 24.6%;
     letter-spacing: 1;
     font-size: 27px;
-    font-family: Noto Sans JP;
+    font-family: 'Noto Sans JP';
   }
 
 

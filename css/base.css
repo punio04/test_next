@@ -38,7 +38,7 @@ html {
 body {
   -webkit-text-size-adjust: none;
   position: relative;
-  font-family: Avenir, "Open Sans", "Helvetica Neue", Helvetica, Arial, Verdana, Roboto, "游ゴシック", "Yu Gothic", "游ゴシック体", "YuGothic", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Meiryo UI", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  font-family: "Noto Sans JP" !important;
   margin: 0px;
   padding: 0px;
   color: #333;
@@ -1178,7 +1178,7 @@ body {
   right: 37.6%;
   letter-spacing: 1;
   font-size: 20px;
-  font-family: Noto Sans JP;
+  font-family: 'Noto Sans JP';
 }
 
 .text02 {
@@ -1187,7 +1187,7 @@ body {
   right: 28.6%;
   letter-spacing: 1;
   font-size: 20px;
-  font-family: Noto Sans JP;
+  font-family: 'Noto Sans JP';
 }
 
 .text03 {
@@ -1196,7 +1196,7 @@ body {
   right: 38.6%;
   letter-spacing: 1;
   font-size: 20px;
-  font-family: Noto Sans JP;
+  font-family: 'Noto Sans JP';
 }
 
 .text04 {
@@ -1206,7 +1206,7 @@ body {
   letter-spacing: 1;
   font-size: 12px;
   font-weight: 200 !important;
-  font-family: Noto Sans JP;
+  font-family: 'Noto Sans JP';
 }
 
 
@@ -1214,7 +1214,7 @@ body {
   font-size: 48px !important;
   letter-spacing: normal !important;
   color: #DA7E14 !important;
-  font-family: Noto Sans JP !important;
+  font-family:'Noto Sans JP' !important;
   padding: 0 3px!important;
   background: none!important;
 }
@@ -1223,7 +1223,7 @@ body {
   font-size: 32px !important;
   letter-spacing: normal !important;
   color: #286699 !important;
-  font-family: Noto Sans JP !important;
+  font-family: 'Noto Sans JP' !important;
 }
 
 .c-block-cases__head {
@@ -1232,5 +1232,5 @@ body {
 }
 
 html {
-  font-family: "Noto Sans JP";
+  font-family: 'Noto Sans JP';
 }
