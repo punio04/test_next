@@ -3594,6 +3594,14 @@ footer .copyright {
 
 
 @media (max-width: 960px) {
+  .pc_disp {
+    display: none;
+  }
+
+  .sp_disp {
+    display: block;
+  }
+
   .mw-header {
     width: 96%;
     margin: auto;
