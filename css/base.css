@@ -177,7 +177,6 @@ table th {
   display: block;
   vertical-align: middle;
   padding: 0;
-  background-image: url(../images/common/iconset.png);
   background-repeat: no-repeat;
 
 }
@@ -198,7 +197,6 @@ table th {
   display: inline-block;
   vertical-align: middle;
   padding: 0;
-  background-image: url(../images/common/iconset.png);
   background-repeat: no-repeat;
 }
 
@@ -1214,9 +1212,9 @@ body {
   font-size: 48px !important;
   letter-spacing: normal !important;
   color: #DA7E14 !important;
-  font-family:'Noto Sans JP' !important;
-  padding: 0 3px!important;
-  background: none!important;
+  font-family: 'Noto Sans JP' !important;
+  padding: 0 3px !important;
+  background: none !important;
 }
 
 .c-heading.is-md {
@@ -1232,5 +1230,5 @@ body {
 }
 
 html {
-  font-family: 'Noto Sans JP';
+  font-family: "Noto Serif", sans-serif !important;
 }
