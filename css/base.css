@@ -212,7 +212,7 @@ html {
 body {
   -webkit-text-size-adjust: none;
   position: relative;
-  font-family: "Noto Sans JP" !important;
+  font-family: "Noto Sans JP";
   margin: 0px;
   padding: 0px;
   color: #333;
@@ -1386,7 +1386,7 @@ body {
   font-size: 48px !important;
   letter-spacing: normal !important;
   color: #DA7E14 !important;
-  font-family: 'Noto Sans JP' !important;
+  font-family: 'Noto Sans JP';
   padding: 0 3px !important;
   background: none !important;
 }
@@ -1395,7 +1395,7 @@ body {
   font-size: 32px !important;
   letter-spacing: normal !important;
   color: #286699 !important;
-  font-family: 'Noto Sans JP' !important;
+  font-family: 'Noto Sans JP';
 }
 
 .c-block-cases__head {
@@ -1404,5 +1404,5 @@ body {
 }
 
 html {
-  font-family: "Noto Sans JP", sans-serif !important;
+font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
 }

@@ -223,7 +223,7 @@ select {
 }
 
 html {
-  font-family: "Noto Sans JP"!important;
+  font-family: "Noto Sans JP";
 }
 
 .leadingTxt02 {
@@ -3824,7 +3824,7 @@ footer .copyright {
     font-size: 40px !important;
     letter-spacing: normal !important;
     color: #286699 !important;
-    font-family: 'Noto Sans JP'!important;
+    font-family: 'Noto Sans JP';
   }
 
   .c-heading.is-md span {
@@ -4247,7 +4247,7 @@ footer .copyright {
     font-size: 24px !important;
     letter-spacing: normal !important;
     color: #286699 !important;
-    font-family: 'Noto Sans JP' !important;
+    font-family: 'Noto Sans JP';
   }
 
   .c-heading.is-md span {
