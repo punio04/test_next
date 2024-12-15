@@ -47,6 +47,10 @@
   }
 }
 
+html {
+  font-family: "Noto Sans JP"!important;
+}
+
 .leadingTxt02 {
   font-size: 24px;
   font-weight: bold;
