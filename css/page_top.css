@@ -4018,7 +4018,7 @@ footer .copyright {
     left: calc(50% - -4.7em);
     transform: scale(1, -1);
     top: 59%;
-    content: "\f176";
+    content: "\f175";
     font-family: "FontAwesome";
   }
 
@@ -4027,6 +4027,13 @@ footer .copyright {
 @media (max-width: 768px) {}
 
 @media (max-width: 560px) {
+
+  .slider1 li {
+    width: 230px;
+    list-style: none !important;
+    margin: 10px 20px;
+  }
+
   ul.your-class li {
     height: 810;
     background-position: 50% 50%;
@@ -4407,6 +4414,12 @@ footer .copyright {
     right: 15% !important;
     font-size: 2em;
     z-index: 99;
+  }
+
+  .text04 {
+    position: absolute;
+    top: 50%;
+    right: 6%;
   }
 
   #main:before {
