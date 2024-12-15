@@ -3222,7 +3222,7 @@ ul {
 .c-heading.is-md strong {
   font-size: 2.375rem;
   letter-spacing: .05em;
-  font-family: Inter;
+  font-family: "Hiragino Kaku Gothic ProN";
   border-bottom: 1px solid #343639;
   padding-bottom: 10px;
   color: #343639;
@@ -3258,7 +3258,7 @@ strong,
 }
 
 .c-accordion__icon {
-  font-family: Inter;
+  font-family: "Hiragino Kaku Gothic ProN";
   font-weight: 700;
   line-height: 1.2;
   font-size: 1.975rem;
@@ -3286,7 +3286,7 @@ strong,
 }
 
 .c-accordion__head:after {
-  content: "\f0dd";
+  content: "\f176";
   font-family: "FontAwesome";
   color: #286699;
   position: absolute;
@@ -3312,7 +3312,7 @@ strong,
 }
 
 .c-accordion__icon {
-  font-family: Inter;
+  font-family: "Hiragino Kaku Gothic ProN";
   font-weight: 700;
   line-height: 1.2;
   font-size: 1.975rem;
@@ -3990,7 +3990,7 @@ footer .copyright {
   }
 
   .c-accordion__head:after {
-    content: "\f0dd";
+    content: "\f176";
     font-family: "FontAwesome";
     color: #286699;
     position: absolute;
@@ -4018,7 +4018,7 @@ footer .copyright {
     left: calc(50% - -4.7em);
     transform: scale(1, -1);
     top: 59%;
-    content: "\f0dd";
+    content: "\f176";
     font-family: "FontAwesome";
   }
 
@@ -4222,8 +4222,8 @@ footer .copyright {
 
   .cp_box1 label:after {
     z-index: 2;
-    bottom: 22px;
-    width: 17em;
+    bottom: 5px;
+    width: 16em;
     height: 3.5em;
     content: '続きはこちら';
     color: #343639;
@@ -4279,12 +4279,12 @@ footer .copyright {
   .cp_box1 label::before {
     content: '';
     position: absolute;
-    line-height: 5rem;
-    font-size: 20px;
+    line-height: 3.3rem;
+    font-size: 16px;
   }
 
   .cp_box1 label::before {
-    content: "\f063";
+    content: "\f175";
     font-family: "FontAwesome";
     color: #000000;
     position: absolute;
@@ -4300,14 +4300,14 @@ footer .copyright {
     left: calc(50% - -4.2em);
     transform: scale(1, -1);
     top: 68%;
-    content: "\f0dd";
+    content: "\f176";
     font-family: "FontAwesome";
   }
 
   .c-heading.is-md strong {
     font-size: 26px;
     letter-spacing: .05em;
-    font-family: Inter;
+    font-family: "Hiragino Kaku Gothic ProN";
     border-bottom: 1px solid #343639;
     padding-bottom: 10px;
     color: #343639;
@@ -4319,7 +4319,7 @@ footer .copyright {
   }
 
   .c-accordion__head:after {
-    content: "\f0dd";
+    content: "\f176";
     font-family: "FontAwesome";
     color: #286699;
     position: absolute;
@@ -4397,7 +4397,7 @@ footer .copyright {
 
 @media (max-width: 375px) {
   .cp_box1 label::before {
-    content: "\f063";
+    content: "\f175";
     font-family: "FontAwesome";
     color: #000000;
     position: absolute;
@@ -4427,7 +4427,7 @@ footer .copyright {
 
 @media (max-width: 320px) {
   .cp_box1 label::before {
-    content: "\f063";
+    content: "\f175";
     font-family: "FontAwesome";
     color: #000000;
     position: absolute;
