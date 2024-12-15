@@ -3286,7 +3286,7 @@ strong,
 }
 
 .c-accordion__head:after {
-  content: "\f176";
+  content: "\f0dd";
   font-family: "FontAwesome";
   color: #286699;
   position: absolute;
@@ -3990,7 +3990,7 @@ footer .copyright {
   }
 
   .c-accordion__head:after {
-    content: "\f176";
+    content: "\f0dd";
     font-family: "FontAwesome";
     color: #286699;
     position: absolute;
@@ -4319,7 +4319,7 @@ footer .copyright {
   }
 
   .c-accordion__head:after {
-    content: "\f176";
+    content: "\f0dd";
     font-family: "FontAwesome";
     color: #286699;
     position: absolute;
