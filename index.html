@@ -672,6 +672,9 @@
             position: absolute;
             line-height: 6rem;
             font-size: 26px;
+            -webkit-font-smoothing: antialiased;
+            -webkit-text-stroke-color: #fff;
+            -webkit-text-stroke-width: 3px;
           }
 
           .cp_box1 label:after {
@@ -714,7 +717,7 @@
 
           .cp_box1 input:checked~.cp_container {
             height: auto;
-            padding-bottom: 120px;
+            padding-bottom: 140px;
             /* 閉じるボタンのbottomからの位置 */
             transition: all 0.5s;
           }
@@ -724,7 +727,7 @@
               left: calc(50% - -4.7em);
               transform: scale(1, -1);
               top: 59%;
-              content: "\f0dd";
+              content: "\f176";
               font-family: "FontAwesome";
             }
           }
@@ -732,6 +735,13 @@
 
 
           @media (max-width: 560px) {
+
+            .cp_box1 input:checked~.cp_container {
+              height: auto;
+              padding-bottom: 60px;
+              transition: all 0.5s;
+            }
+
             .cp_box1 .cp_container {
               overflow: hidden;
               height: auto;
@@ -745,9 +755,9 @@
             }
 
             .cp_box1 input:checked+label:before {
-              left: calc(50% - -2.2em);
+              left: calc(50% - -3em);
               transform: scale(1, -1);
-              top: 72.4%;
+              top: 79%;
               content: "\f175";
               font-family: "FontAwesome";
             }
@@ -757,7 +767,7 @@
               font-family: "FontAwesome";
               color: #000000;
               position: absolute;
-              top: 83%;
+              top: 88%;
               -webkit-transform: translateY(-50%);
               transform: translateY(-50%);
               right: 21%;
@@ -806,7 +816,7 @@
             .cp_box1 label:after {
               z-index: 2;
               bottom: 5px;
-              width: 16em;
+              width: 21em;
               height: 3.5em;
               content: '続きはこちら';
               color: #343639;
