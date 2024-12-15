@@ -4106,7 +4106,7 @@ footer .copyright {
   .text04 {
     position: absolute;
     top: 50%;
-    right: 13%;
+    right: 12%;
     letter-spacing: 1;
     font-size: 8px;
     font-weight: 200 !important;
@@ -4465,4 +4465,21 @@ footer .copyright {
     height: 62px;
     padding-top: 0px;
   }
+
+  .text04 {
+    position: absolute;
+    top: 50%;
+    right: 4%;
+  }
+
+  .text04 {
+    position: absolute;
+    top: 50%;
+    right: 12%;
+    letter-spacing: 1;
+    font-size: 7px;
+    font-weight: 200 !important;
+    font-family: 'Noto Sans JP';
+  }
+
 }
